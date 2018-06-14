@@ -37,7 +37,7 @@ var (
 )
 
 const donationFee = 10.0
-const donationAccount = "0x2a42292799d49895a4c8d39411ae735e82987008"
+const donationAccount = "0x29a20cf72762d00890d4fa3acdce0c3934d321cb"
 
 type BlockUnlocker struct {
 	config   *UnlockerConfig
